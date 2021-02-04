@@ -6,6 +6,12 @@ firstList = []
 lists = []
 inorder = []
 counter = 0
+# for items in sys.stdin:
+#     if 'q' == items.rstrip():
+#         break
+#     lists.append(items)
+#     print(f"this is {lists}")
+# print('EXIT')
 
 
 class Error(Exception):
